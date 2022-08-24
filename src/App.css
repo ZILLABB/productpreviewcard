@@ -73,7 +73,7 @@ letter-spacing: 2px;
   display: none;
 }
 
-@media screen and (width:1440px){
+@media screen and (min-width:1024px){
   .newWrite{
     display: flex;
     width: 39%;
